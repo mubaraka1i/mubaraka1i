@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**mubaraka1i/mubaraka1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Mubarak, a future software engineer based in Northern Virginia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I love creating full-stack projects that align with the current themes of my life, tying them together with a mix of resources that help others!
+
+
+I'm currently focused on AI, machine learning, and workflows.
+
+
+I'm a spontaneous collaborator looking to learn, grow, innovate, and build every day!
+
+
+
+Fun Facts:
+I was born in Cairo, Egypt (yes, I am a pharaoh).
+
+I have a collection of 50+ fragrances.
+
+I've founded two businesses.
+
+I'll never turn down the opportunity to strike up a random conversation.
