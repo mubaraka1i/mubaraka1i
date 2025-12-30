@@ -16,9 +16,6 @@ I'm a spontaneous collaborator looking to learn, grow, innovate, and build every
 
 Fun Facts:
 I was born in Cairo, Egypt (yes, I am a pharaoh).
-
 I have a collection of 50+ fragrances.
-
 I've founded two businesses.
-
 I'll never turn down the opportunity to strike up a random conversation.
