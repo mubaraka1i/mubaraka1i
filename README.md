@@ -1,7 +1,7 @@
 Hi there! 👋🏼
 
 
-I'm Mubarak, a future software engineer based in Northern Virginia. 👨🏽‍💻
+I'm Mubarak, a software engineer based in Northern Virginia. 👨🏽‍💻
 
 
 I love creating full-stack projects that align with the current themes of my life, tying them together with a mix of resources that help others!
