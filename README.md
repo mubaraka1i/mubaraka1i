@@ -17,7 +17,7 @@ I'm a spontaneous collaborator looking to learn, grow, innovate, and build every
 
 Fun Facts:
 
-I was born in Cairo, Egypt (yes, I am a pharaoh). 🇪🇬
+I was born in Cairo, Egypt. 🇪🇬
 
 I have a collection of 50+ fragrances.
 
