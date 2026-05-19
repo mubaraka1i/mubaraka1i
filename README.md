@@ -23,4 +23,4 @@ I have a collection of 50+ fragrances.
 
 I've founded two businesses.
 
-I'll never turn down the opportunity to strike up a random conversation. 🗣️
+I'll never turn down the opportunity to strike up a conversation. 🗣️
