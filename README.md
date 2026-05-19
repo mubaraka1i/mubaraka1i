@@ -7,7 +7,7 @@ I'm Mubarak, a software engineer based in Northern Virginia. 👨🏽‍💻
 I love creating full-stack projects that align with the current themes of my life, tying them together with a mix of resources that help others!
 
 
-I'm currently focused on AI, machine learning, and workflows.
+I'm currently focused on building AI/ML pipelines, engineering data workflows, and deploying cloud-based systems.
 
 
 I'm a spontaneous collaborator looking to learn, grow, innovate, and build every day! 📈
